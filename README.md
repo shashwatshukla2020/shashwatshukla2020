@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Shashwat Shukla</h1>
 
-- 🌱 I’m currently learning **Python.**
+- ⚡ A **goal oriented** person.**
 
-- 💬 I’m interested in **Coding And Travelling.**
+- 💬 Interested in **Coding And Travelling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
