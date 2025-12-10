@@ -1,65 +1,63 @@
-<!-- Profile README -->
+<!--
+**shashwatshukla2020/shashwatshukla2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#4e8cff;">Shashwat Shukla</span></h1>
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-<p align="center">
-  🚀 <b>Developer | Problem Solver | Tech Explorer</b>  
-</p>
+<h2 align="left">Hi there, I'm 
+<a href="https://www.linkedin.com/in/shashwat-shukla-b93400251/" target="_blank" rel="noopener noreferrer">
+Shashwat Shukla</a> 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+ 
+<a href="https://github.com/shashwatshukla2020">
+<img align='right' src='https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
+</a>
+</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashwatshukla2020&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- 💻 I'm a passionate **Full-Stack Developer**
+- 🌱 Currently learning **ReactJS**
+- ⚡ Goal-oriented & highly motivated to build real-world products  
+- 🎯 2025 Objective: Build more projects & grow as a developer  
+- ✨ I love **coding, travelling and exploring new technologies**
 
 ---
 
-### 🧑‍💻 About Me  
-- ⚡ A **goal-oriented** person.  
-- 🌱 Currently learning **ReactJS**.  
-- 💬 Passionate about **Coding** & **Travelling**.  
-- 🎯 Always excited to learn new technologies and build cool things.
-
----
-
-### 🌐 Connect With Me  
+#### 🚀 Languages and Tools  
 <p>
-  <a href="https://www.linkedin.com/in/shashwat-shukla-b93400251/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="https://instagram.com/shashwat779" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop"></code>
+</p>
+
+<br />
+
+#### 📊 GitHub Stats  
+[![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwatshukla2020&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&include_all_commits=true)](https://github.com/shashwatshukla2020)&nbsp;&nbsp;  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatshukla2020&layout=compact&langs_count=6&theme=blue-green)](https://github.com/shashwatshukla2020)
+
+---
+
+#### 🌐 Connect With Me  
+<p align='left'>
+   <a href="https://www.linkedin.com/in/shashwat-shukla-b93400251/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/shashwat779" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://github.com/shashwatshukla2020" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,java,python,c,cpp,ps" />
-</p>
+![build](https://img.shields.io/badge/Profile%20Build-Awesome-blueviolet)
+![GitHub last commit](https://img.shields.io/github/last-commit/shashwatshukla2020/shashwatshukla2020)
+![pv](https://pageview.vercel.app/?github_user=shashwatshukla2020)
 
----
+-----
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shashwatshukla2020&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatshukla2020&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Fun Zone
-- 😎 Always learning something new  
-- 💡 Believe in consistency  
-- 🎨 Sometimes designing too  
-- ✈️ Love exploring new places  
-
----
-
-### 🔥 Quote I Believe In  
-> **"Code. Learn. Grow. Repeat."**
-
----
-
-<p align="center">
-  ⭐ If you like my profile, consider following me!
-</p>
+Credits: **Shashwat Shukla**  
+Last Edited on: *2025*
